@@ -3,10 +3,14 @@
 1. Create a new directory for the tool
 2. Unzip the archive and ensure that superfund_suitability.py is one directory level above two folders: input_layers and outputs
 3. Ensure input_layers has 4 gpkgs inside
-4. Create a new conda environment for the tool, and install the following packages: 
+4. Create a new conda environment for the tool, and install the following packages:
+
    a. tkinter
+   
    b. pandas
+   
    c. geopandas
+   
    d. numpy 
 6. run the tool with `python superfund_suitability.py`
 
